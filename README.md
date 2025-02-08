@@ -25,10 +25,9 @@ This project demonstrates the **translation of 1000 Hindi words into English** u
 2. **Loading Hindi Words**:  
    - The 1000 Hindi words are loaded from a .csv file "hindi_names.csv".  
 3. **Translation Process**:  
-   - The `Translator` class from `googletrans` is used to translate each word.  
-   - The translated words are displayed in a list or saved to a file.  
+   - The `Translator` class from `googletrans` is used to translate each word.   
 4. **Output**:  
-   - The translated English words are displayed or saved for further use.  
+   - The translated English words are displayed or can be saved for further use.  
 
 ---
 
