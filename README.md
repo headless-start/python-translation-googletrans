@@ -1,4 +1,4 @@
-# Hindi to English Translation using Google Translate API  
+# Hindi to En,De,Pl Translation using Googletrans API
 
 ## 📌 Project Overview  
 This project demonstrates the **translation of 1000 Hindi words into English** using the **Google Translate API** via the `googletrans` library. The project automates the translation process, making it efficient and scalable for large datasets.  
